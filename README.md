@@ -44,5 +44,8 @@ This project focuses on using CNNs to predict the grades of brain tumors by anal
 ## Results
 The CNN models demonstrated potential as a reliable tool for classifying brain tumor grades, with performance evaluated using accuracy, precision, recall, F1 score, and AUC-ROC. The use of pre-trained models and data augmentation helped overcome the challenge of limited labeled data.
 
+## Files
+- `model.py`: Sample CNN model structure (simulated for demonstration).
+
 ## Note
 Project files are currently unavailable but will be added soon. This project was part of a collaborative effort at Vignan's Institute of Information Technology, Visakhapatnam, under the guidance of Mrs. Ch. Swapna Priya(Ph.D).
